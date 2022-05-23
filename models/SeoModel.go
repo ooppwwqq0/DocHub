@@ -11,7 +11,7 @@ import (
 
 	"fmt"
 
-	"github.com/TruthHun/DocHub/helper"
+	"github.com/ooppwwqq0/DocHub/helper"
 	"github.com/TruthHun/gotil/sitemap"
 	"github.com/astaxie/beego/orm"
 )

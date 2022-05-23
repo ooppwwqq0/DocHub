@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/TruthHun/DocHub/helper"
+	"github.com/ooppwwqq0/DocHub/helper"
 	"github.com/astaxie/beego"
 )
 

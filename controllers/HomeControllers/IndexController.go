@@ -5,8 +5,8 @@ import (
 
 	"strings"
 
-	"github.com/TruthHun/DocHub/helper"
-	"github.com/TruthHun/DocHub/models"
+	"github.com/ooppwwqq0/DocHub/helper"
+	"github.com/ooppwwqq0/DocHub/models"
 	"github.com/astaxie/beego/orm"
 )
 

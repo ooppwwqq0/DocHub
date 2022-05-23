@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/TruthHun/DocHub/helper"
+	"github.com/ooppwwqq0/DocHub/helper"
 
 	"reflect"
 
@@ -42,9 +42,9 @@ var Fields = map[string]map[string]string{
 
 func init() {
 	//如果存在app.conf文件，则表示程序已安装，执行数据库初始化
-	if helper.IsInstalled {
-		Init()
-	}
+	//if helper.IsInstalled {
+	//	Init()
+	//}
 }
 
 //初始化数据库注册
